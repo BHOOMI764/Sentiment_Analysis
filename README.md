@@ -44,24 +44,10 @@ Automatically analyzes Amazon product reviews to determine:
 
 ## 📊 **Sample Output**
 
-```
 Review: "This product is amazing! Love it!"
 VADER Score: 0.735 (Positive)
 TextBlob: 0.625 (Positive)
-```
 
----
-
-## 📁 **File Structure**
-
-```
-sentiment-analysis/
-├── 📓 sentiment_analysis.ipynb    # Main notebook
-├── 📊 amazon_reviews.csv          # Your review data
-├── 📈 results/                    # Output visualizations
-└── 📋 README.md                   # This file
-```
----
 
 ## 🎯 **Use Cases**
 
