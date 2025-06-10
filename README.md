@@ -59,6 +59,4 @@ TextBlob: 0.625 (Positive)
 
 ---
 
-**Start discovering what customers really think! 🛍️💭**
-
 *Built for e-commerce insights and data-driven decisions*
